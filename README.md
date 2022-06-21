@@ -4,7 +4,7 @@
 - Front End Developer.
 - Currently studying Angular / TS / SaaS.
 
-
+<div>
 <div align="center">
   <a href="https://github.com/vitorbarbo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbarbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,6 +20,7 @@
   <img align="center" alt="Vitor-figma" height="30" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Vitor-sass" height="30" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="right" alt="Vitor-sass" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83650554/174879737-a4400334-050f-4dcb-963c-46a57fa65852.png">
+	</div>
 	
   ##
 	
