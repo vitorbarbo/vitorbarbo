@@ -1,10 +1,5 @@
-### Hello, world! I'm Vitor 👋
-##
+## Hello, world! I'm Vitor, Front - End Developer and tech enthusiatic 👋
 
-- Front End Developer.
-- Currently studying Angular / TS / SaaS.
-
-<div>
 <div align="center">
   <a href="https://github.com/vitorbarbo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbarbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,13 +15,16 @@
   <img align="center" alt="Vitor-figma" height="30" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Vitor-sass" height="30" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="right" alt="Vitor-sass" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83650554/174879737-a4400334-050f-4dcb-963c-46a57fa65852.png">
-	</div>
 	
   ##
+	
+<div>
 	
  <a href="https://discord.gg/eTMDnKBp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitordb91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-barbosa-a06394206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/vitorbarbo/vitorbarbo/blob/output/github-contribution-grid-snake.svg)
+	
+</div>
 
