@@ -7,7 +7,6 @@
 </div>
 	<div align="center">
 		<img src="https://streak-stats.demolab.com/?user=vitorbarbo" alt"Streak stats">
-
 	</div>
 
 <div style="display: inline_block"><br>
